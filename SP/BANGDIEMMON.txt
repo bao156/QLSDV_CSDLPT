@@ -1,0 +1,38 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_BANGDIEMMON]    Script Date: 12/24/2020 10:50:47 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[SP_BANGDIEMMON]
+	-- Add the parameters for the stored procedure here
+	@MALOP char(8),
+	@MAMH char(8),
+	@LAN int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+		if exists (Select 1
+					from SINHVIEN,DIEM
+					where SINHVIEN.MASV=DIEM.MASV and
+						MALOP=@MALOP and MAMH=@MAMH
+						and LAN=@LAN)
+				Select SINHVIEN.MASV,HO,TEN
+					from SINHVIEN,DIEM
+					where SINHVIEN.MASV=DIEM.MASV and
+						MALOP=@MALOP and MAMH=@MAMH
+						and LAN=@LAN;
+		else 
+		RAISERROR('Môn không có điểm',16,1);
+
+END

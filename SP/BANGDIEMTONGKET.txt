@@ -1,0 +1,38 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_BANGDIEMTONGKET]    Script Date: 12/24/2020 10:51:30 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[SP_BANGDIEMTONGKET]
+	-- Add the parameters for the stored procedure here
+	@MALOP char(12)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	if exists (
+				Select 1
+				From SINHVIEN
+				where MALOP=@MALOP
+				)
+		Select SINHVIEN.MASV,HO,TEN,TENMH,MAX(DIEM) as DIEM
+		FROM SINHVIEN
+		LEFT JOIN DIEM on DIEM.MASV=SINHVIEN.MASV
+		LEFT JOIN MONHOC on DIEM.MAMH=MONHOC.MAMH
+		where MALOP=@MALOP
+		group by SINHVIEN.MASV,HO,TEN,TENMH;
+	else
+		RAISERROR('Lớp không có sinh viên',16,1)
+END
+

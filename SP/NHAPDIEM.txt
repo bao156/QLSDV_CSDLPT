@@ -1,0 +1,30 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_NHAPDIEM]    Script Date: 12/24/2020 10:56:14 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+ALTER PROCEDURE [dbo].[SP_NHAPDIEM]
+	-- Add the parameters for the stored procedure here
+	@MALOP char(8),
+	@MAMH char(6),
+	@LAN int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	Select SINHVIEN.MASV,HO,TEN,DIEM
+	From SINHVIEN
+	LEFT JOIN DIEM on SINHVIEN.MASV=DIEM.MASV and DIEM.LAN=@LAN  and DIEM.MAMH=@MAMH
+	where SINHVIEN.MALOP=@MALOP
+END
+

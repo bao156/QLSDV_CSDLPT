@@ -1,0 +1,42 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_LUUDIEM]    Script Date: 12/24/2020 10:55:40 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+
+
+ALTER PROCEDURE [dbo].[SP_LUUDIEM]
+      @MASV char(12),
+	  @MAMH char(6),
+	  @LAN int,
+	  @DIEM float
+AS
+BEGIN
+      SET NOCOUNT ON;
+ 
+      DECLARE @Exists INT
+ 
+      IF EXISTS(SELECT MASV,MAMH,LAN
+                        FROM dbo.DIEM
+                        WHERE  MASV= @MASV and LAN=@LAN and MAMH=@MAMH)
+      BEGIN
+            UPDATE DIEM
+			SET DIEM.DIEM=@DIEM
+			WHERE  DIEM.MASV= @MASV and LAN=@LAN and DIEM.MAMH=@MAMH
+      END
+      ELSE
+      BEGIN
+				INSERT INTO DIEM(MASV,MAMH,LAN,DIEM)
+				VALUES(@MASV,@MAMH,@LAN,@DIEM);
+      END
+
+END
+
+
+
+

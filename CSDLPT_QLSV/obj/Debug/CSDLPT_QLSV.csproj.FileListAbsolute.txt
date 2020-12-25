@@ -1,0 +1,531 @@
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe.config
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.pdb
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v19.2.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v19.2.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v19.2.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Properties.Resources.resources
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe.licenses
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.CopyComplete
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.pdb
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frDangNhap.resources
+C:\Users\USER\source\repos\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmSinhVien.resources
+C:\Users\Computer\Downloads\Compressed\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe.config
+C:\Users\Computer\Downloads\Compressed\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe
+C:\Users\Computer\Downloads\Compressed\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe.config
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDangNhap.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmMain.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmSinhVien.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Properties.Resources.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.GenerateResource.Cache
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe.licenses
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v19.2.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v19.2.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v19.2.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe.config
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.pdb
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmSinhVien.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDangNhap.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmMain.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Properties.Resources.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.GenerateResource.cache
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe.licenses
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.CoreCompileInputs.cache
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.CopyComplete
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.pdb
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csprojAssemblyReference.cache
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmMon.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmLop.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDiem.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmTaoLogin.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_BangDiemMon.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_BangDiemThiHetMon.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_BangDiemTongKet.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_DanhSachSinhVien.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_HocPhiLop.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_PhieuDiem.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_BangDiemMon.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_BangDiemThiHetMon.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_BangDiemTongKet.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Report.Xrpt_DanhSachSinhVien.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_HocPhiLop.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_PhieuDiem.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe.config
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.exe
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\CSDLPT_QLSV.pdb
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.CodeParser.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Xpo.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Images.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Xpo.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDiem.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmLop.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmMon.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmSinhVien.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDangNhap.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmMain.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmTaoLogin.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_BangDiemMon.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_BangDiemThiHetMon.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_BangDiemTongKet.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_DanhSachSinhVien.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_HocPhiLop.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.fRpt_PhieuDiem.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Properties.Resources.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_BangDiemMon.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_BangDiemThiHetMon.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_BangDiemTongKet.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Report.Xrpt_DanhSachSinhVien.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_HocPhiLop.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.Xrpt_PhieuDiem.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.GenerateResource.cache
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe.licenses
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csproj.CopyComplete
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.exe
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.pdb
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmHocPhi.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmHocPhi.resources
+D:\Môn lớp\Cơ sở dữ liệu phân tán\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDongHocPhi.resources
+D:\Projects\Visual Studio 2013\Projects\CSDLPT_QLSV\CSDLPT_QLSV\obj\Debug\CSDLPT_QLSV.frmDongHocPhi.resources

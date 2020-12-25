@@ -1,0 +1,22 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_LAYTIENDADONG]    Script Date: 12/24/2020 10:55:12 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+ALTER PROC [dbo].[SP_LAYTIENDADONG]
+@MASV char(12),
+@NIENKHOA nvarchar(50),
+@HOCKY int
+AS
+Begin
+	return (Select SUM(SOTIENDONG)
+	From CT_DONGHOCPHI
+	Where MASV=@MASV AND NIENKHOA=@NIENKHOA and HOCKY=@HOCKY)
+End;
+
+
+

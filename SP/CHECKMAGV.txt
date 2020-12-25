@@ -1,0 +1,22 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CHECKMAGV]    Script Date: 12/24/2020 10:52:58 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+ALTER PROCEDURE [dbo].[SP_CHECKMAGV] @MAGV char(10)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	IF EXISTS (Select 1 from GIANGVIEN where MAGV=@MAGV) return 1
+;
+END
+
+

@@ -1,0 +1,37 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CHECKTHI]    Script Date: 12/24/2020 10:54:05 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+ALTER PROCEDURE [dbo].[SP_CHECKTHI]
+	-- Add the parameters for the stored procedure here
+	@MALOP char(8),
+	@MAMH char(8),
+	@LAN int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+	DECLARE @Exists INT
+    -- Insert statements for procedure here
+	if(@LAN=1)
+		if not exists(Select 1 from SINHVIEN,DIEM,MONHOC where 
+					SINHVIEN.MASV=DIEM.MASV and DIEM.MAMH=MONHOC.MAMH 
+					and SINHVIEN.MALOP=@MALOP and DIEM.MAMH=@MAMH and LAN=1)
+				BEGIN
+					 SET @Exists = 0
+				END
+				ELSE
+				BEGIN
+					SET @Exists = 1
+				END
+	 RETURN @Exists
+END
+
+

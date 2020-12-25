@@ -1,0 +1,42 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_HOCPHILOP]    Script Date: 12/24/2020 10:54:56 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[SP_HOCPHILOP]
+	-- Add the parameters for the stored procedure here
+	@MALOP char(8),
+	@NIENKHOA char(50),
+	@HOCKY int
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	if exists (
+				Select 1
+				From SINHVIEN
+				where MALOP=@MALOP
+				)
+		Select SINHVIEN.MALOP,HO,TEN,HOCPHI.HOCPHI,SUM(CT_DONGHOCPHI.SOTIENDONG)
+		FROM SINHVIEN
+		LEFT JOIN HOCPHI on HOCPHI.MASV=SINHVIEN.MASV
+		LEFT JOIN CT_DONGHOCPHI on CT_DONGHOCPHI.MASV=SINHVIEN.MASV
+		where SINHVIEN.MALOP=@MALOP and HOCPHI.NIENKHOA=@NIENKHOA and HOCPHI.HOCKY=@HOCKY
+		GROUP BY SINHVIEN.MALOP,HO,TEN,HOCPHI.HOCPHI
+	else
+		RAISERROR('Lớp không có sinh viên',16,1);
+END
+
+

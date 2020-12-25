@@ -1,0 +1,37 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CHECKHOCPHI]    Script Date: 12/24/2020 10:52:09 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+
+ALTER PROCEDURE [dbo].[SP_CHECKHOCPHI]
+      @MASV char(12),
+	  @NIENKHOA nvarchar(50),
+	  @HOCKY int
+AS
+BEGIN
+      SET NOCOUNT ON;
+ 
+      DECLARE @Exists INT
+ 
+      IF EXISTS(SELECT 1
+                        FROM dbo.HOCPHI
+                        WHERE  MASV=@MASV AND NIENKHOA=@NIENKHOA AND HOCKY=@HOCKY)
+      BEGIN
+            SET @Exists = 1
+      END
+      ELSE
+      BEGIN
+            SET @Exists = 0
+      END
+ 
+      RETURN @Exists
+END
+
+
+

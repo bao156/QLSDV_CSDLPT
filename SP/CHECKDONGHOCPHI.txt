@@ -1,0 +1,34 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CHECKDONGHOCPHI]    Script Date: 12/24/2020 10:51:45 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+ALTER PROC [dbo].[SP_CHECKDONGHOCPHI]
+@MASV char (12),
+@NIENKHOA nvarchar(50),
+@HOCKY int,
+@NGAY date
+AS
+BEGIN
+	DECLARE @Exists INT
+	if NOT EXISTS
+	(
+		SELECT 1
+		FROM CT_DONGHOCPHI AS CT
+		WHERE CT.MASV=@MASV and CT.NIENKHOA=@NIENKHOA and CT.HOCKY=@HOCKY and CT.NGAYDONG=@NGAY 
+	)
+	  BEGIN
+            SET @Exists = 0
+      END
+      ELSE
+      BEGIN
+            SET @Exists = 1
+      END
+	  RETURN @Exists
+END;
+
+

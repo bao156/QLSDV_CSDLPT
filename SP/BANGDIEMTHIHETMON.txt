@@ -1,0 +1,47 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_BANGDIEMTHIHETMON]    Script Date: 12/24/2020 11:01:12 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[SP_BANGDIEMTHIHETMON]
+	-- Add the parameters for the stored procedure here
+	@MALOP char(8),
+	@MAMH char(8),
+	@LAN int
+AS
+BEGIN
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	if(@LAN=1)
+		if not exists(Select 1 from SINHVIEN,DIEM,MONHOC where 
+					SINHVIEN.MASV=DIEM.MASV and DIEM.MAMH=MONHOC.MAMH 
+					and SINHVIEN.MALOP=@MALOP and DIEM.MAMH=@MAMH and LAN=1) 
+		SELECT MASV,HO,TEN
+		from SINHVIEN
+		where MALOP=@MALOP
+		else
+			RAISERROR('Môn đã thi lần 1',16,1)
+	
+	else
+		if not exists(Select 1 from SINHVIEN,DIEM,MONHOC where 
+					SINHVIEN.MASV=DIEM.MASV and DIEM.MAMH=MONHOC.MAMH 
+					and SINHVIEN.MALOP=@MALOP and DIEM.MAMH=@MAMH and LAN=2) 
+			SELECT SINHVIEN.MASV,HO,TEN
+			from SINHVIEN,DIEM,MONHOC
+			where SINHVIEN.MASV=DIEM.MASV and DIEM.MAMH=MONHOC.MAMH 
+				and SINHVIEN.MALOP=@MALOP and DIEM<5.0 and DIEM.MAMH=@MAMH
+		else
+			RAISERROR('Môn đã thi lần 2',16,1)
+			RETURN
+END
+

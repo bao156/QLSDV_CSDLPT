@@ -1,0 +1,21 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_LUUDONGHOCPHI]    Script Date: 12/24/2020 10:55:58 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+ALTER procedure [dbo].[SP_LUUDONGHOCPHI]
+@MASV char(12),
+@NIENKHOA varchar(50),
+@HOCKY int,
+@NGAY date,
+@TIENDONG int
+AS
+BEGIN
+	insert into CT_DONGHOCPHI(MASV,NIENKHOA,HOCKY,NGAYDONG,SOTIENDONG)
+	values(@MASV,@NIENKHOA,@HOCKY,@NGAY,@TIENDONG)
+END;
+
+

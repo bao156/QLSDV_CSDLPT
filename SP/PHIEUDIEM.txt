@@ -1,0 +1,34 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_PHIEUDIEM]    Script Date: 12/24/2020 10:56:59 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[SP_PHIEUDIEM]
+	-- Add the parameters for the stored procedure here
+	@MASV char(12)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	if exists(select 1
+			from DIEM
+			where MASV=@MASV)
+		Select SINHVIEN.MASV,HO,TEN,TENMH,MAX(DIEM) as DIEM
+		from SINHVIEN
+		LEFT JOIN DIEM on DIEM.MASV=SINHVIEN.MASV
+		LEFT JOIN MONHOC on MONHOC.MAMH=DIEM.MAMH
+		where SINHVIEN.MASV=@MASV
+		group by SINHVIEN.MASV,HO,TEN,TENMH;
+	else 
+		RAISERROR('Sinh viên không có điểm',16,1);
+END

@@ -1,0 +1,24 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CHECKMALOP]    Script Date: 12/24/2020 10:53:10 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+
+ALTER PROCEDURE [dbo].[SP_CHECKMALOP]
+      @MALOP char(8)
+AS
+BEGIN
+      SET NOCOUNT ON;
+      IF EXISTS(SELECT MALOP=@MALOP
+                        FROM dbo.LOP
+                        WHERE  MALOP= @MALOP) return 1;
+	ELSE IF EXISTS(SELECT 1 FROM LINK1.QLDSV.dbo.LOP where MALOP=@MALOP) RETURN 1;
+	ELSE
+		RETURN 0;
+END
+
+

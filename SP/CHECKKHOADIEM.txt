@@ -1,0 +1,31 @@
+USE [QLDSV]
+GO
+/****** Object:  StoredProcedure [dbo].[SP_CHECKKHOADIEM]    Script Date: 12/24/2020 10:52:34 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+
+ALTER PROC [dbo].[SP_CHECKKHOADIEM]
+@MALOP char (8),
+@MAMH char(6)
+AS
+BEGIN
+	DECLARE @Exists INT
+	if NOT EXISTS
+	(
+		SELECT 1
+		FROM DIEM
+		WHERE DIEM.MAMH=@MAMH and DIEM.LAN=2 and DIEM.MASV in (SELECT SINHVIEN.MASV FROM SINHVIEN WHERE SINHVIEN.MALOP=@MALOP) 
+	)
+	  BEGIN
+            SET @Exists = 0
+      END
+      ELSE
+      BEGIN
+            SET @Exists = 1
+      END
+	  RETURN @Exists
+END;
+
